@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+notion.site	TRUE	/	FALSE	1999999999	notion_browser_id	4580b731-b0cd-4961-89f4-bf7b7563f32f
+notion.site	TRUE	/	FALSE	1999999999	notion_check_cookie_consent	false
+notion.site	TRUE	/	FALSE	1999999999	notion_locale	en-US%2Fautodetect
+notion.site	TRUE	/	FALSE	1999999999	NEXT_LOCALE	en-US
+.notion.site	TRUE	/	FALSE	1999999999	__cf_bm	XhOfY_Cz2f8EKHAuvL9m2jPhZTOqsfBW8ufkhxbe8Ac-1721565859-1.0.1.1-Kf4leHLFKVWJNtyIDIyds.18sSBRZTa_XY3LVyWSrSOcE_cavmn3g6.B2ovlSGkZigYFSKx64TOlN8IkNtgYCQ
+magenta-random-1f3.notion.site	TRUE	/	FALSE	1999999999	SameSite	None
+notion.site	TRUE	/	FALSE	1999999999	device_id	dfd188a0-f88e-4eea-be85-bfc1e8dc7622
+
